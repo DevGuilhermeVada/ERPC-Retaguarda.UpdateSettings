@@ -5,6 +5,7 @@
       "CurrentVersion": "",
       "ReleaseDate": "",
       "DownloadDestinationPath": "C:\\ERPC - Retaguarda - v2\\Update\\SystemSettings\\",
+      "ExtractDestinationPath": "",    
       "FileName": "UpdateSystem.zip"
     },
   "UpdateMarketing": {
@@ -13,6 +14,7 @@
       "CurrentVersion": "1",
       "ReleaseDate": "11-06-2024",
       "DownloadDestinationPath": "C:\\ERPC - Retaguarda - v2\\Update\\UpdateMarketing\\",
+      "ExtractDestinationPath": "",
       "FileName": "UpdateMarketing.zip"
   }
 }
