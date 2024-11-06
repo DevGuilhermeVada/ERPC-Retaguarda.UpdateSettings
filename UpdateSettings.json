@@ -1,1 +1,12 @@
-
+{
+  "UpdateSystem": {
+      "Link": "",
+      "Description": "",
+      "Version": ""
+    },
+  "UpdateMarketing": {
+      "Link": "",
+      "Description": "",
+      "Version": ""
+  }
+}
