@@ -1,4 +1,7 @@
 {
+  "DefaultSettings": {
+      "ApplicationPath": "C:\\ERPC - Retaguarda - v2\\"
+  },
   "UpdateSystem": {
       "Address": "",
       "Description": "",
@@ -13,8 +16,8 @@
       "Description": "Initial Marketing",
       "CurrentVersion": "1",
       "ReleaseDate": "11-06-2024",
-      "DownloadDestinationPath": "C:\\ERPC - Retaguarda - v2\\Update\\UpdateMarketing",
-      "ExtractDestinationPath": "C:\\ERPC - Retaguarda - v2\\Marketing\\",
+      "DownloadDestinationPath": "Update\\UpdateMarketing",
+      "ExtractDestinationPath": "Marketing",
       "FileName": "UpdateMarketing.zip"
   }
 }
