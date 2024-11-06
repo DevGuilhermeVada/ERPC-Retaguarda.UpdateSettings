@@ -16,7 +16,7 @@
       "Description": "Initial Marketing",
       "CurrentVersion": "1",
       "ReleaseDate": "11-06-2024",
-      "DownloadDestinationPath": "Update\\UpdateMarketing",
+      "DownloadDestinationPath": "Update\\UpdateMarketing\\",
       "ExtractDestinationPath": "Marketing",
       "FileName": "UpdateMarketing.zip"
   }
