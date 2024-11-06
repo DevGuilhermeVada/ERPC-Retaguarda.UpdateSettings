@@ -2,11 +2,13 @@
   "UpdateSystem": {
       "Link": "",
       "Description": "",
-      "Version": ""
+      "Version": "",
+      "ReleaseDate": ""
     },
   "UpdateMarketing": {
       "Link": "",
       "Description": "",
-      "Version": ""
+      "Version": "",
+      "ReleaseDate": ""
   }
 }
