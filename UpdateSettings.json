@@ -19,6 +19,6 @@
       "DownloadDestinationPath": "Update\\UpdateMarketing\\",
       "ExtractDestinationPath": "Marketing",
       "FileName": "UpdateMarketing.zip",
-      "DelayInSeconds": 5
+      "DelayInSeconds": 0
   }
 }
