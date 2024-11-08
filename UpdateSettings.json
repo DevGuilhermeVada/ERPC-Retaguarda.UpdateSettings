@@ -5,7 +5,7 @@
   "UpdateSystem": {
       "Address": "",
       "Description": "",
-      "CurrentVersion": "",
+      "CurrentVersion": 1,
       "ReleaseDate": "",
       "DownloadDestinationPath": "",
       "ExtractDestinationPath": "",    
