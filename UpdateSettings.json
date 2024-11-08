@@ -1,6 +1,7 @@
 {
   "DefaultSettings": {
-    "ApplicationPath": "C:\\ERPC - Retaguarda - v2\\"
+    "ApplicationPath": "C:\\ERPC - Retaguarda - v2\\",
+    "ApplicationName": "ERPC - Retaguarda.exe"
   },
   "UpdateSystem": {
       "Address": "https://www.dropbox.com/scl/fi/7sn5iaei9sl6wqku3ctan/ShopKeeperPortal.WinForms.zip?rlkey=o8u2ohsrwi3hv7cwkkjyckbqt&dl=1",
