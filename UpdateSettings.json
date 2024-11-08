@@ -10,7 +10,8 @@
       "DownloadDestinationPath": "Update\\",
       "ExtractDestinationPath": "",    
       "FileName": "UpdateSystem.zip",
-      "DelayInSeconds": 5
+      "DelayInSeconds": 5,
+      "UpdateDatabaseFileName": "script_v2.sql"
     },
   "UpdateMarketing": {
       "Address": "https://www.dropbox.com/scl/fi/a1anjbcu26m39bbogzv3w/Marketing_Info.zip?rlkey=wlz8pz7kyuoewrwh7pmeohlg4&dl=1",
