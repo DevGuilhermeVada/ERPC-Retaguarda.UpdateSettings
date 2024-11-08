@@ -3,11 +3,11 @@
     "ApplicationPath": "C:\\ERPC - Retaguarda - v2\\"
   },
   "UpdateSystem": {
-      "Address": "",
-      "Description": "",
+      "Address": "https://www.dropbox.com/scl/fi/7sn5iaei9sl6wqku3ctan/ShopKeeperPortal.WinForms.zip?rlkey=o8u2ohsrwi3hv7cwkkjyckbqt&dl=1",
+      "Description": "Initial Version",
       "CurrentVersion": 1,
-      "ReleaseDate": "",
-      "DownloadDestinationPath": "",
+      "ReleaseDate": "11-06-2024",
+      "DownloadDestinationPath": "Update\\UpdateSystem\\",
       "ExtractDestinationPath": "",    
       "FileName": "UpdateSystem.zip",
       "DelayInSeconds": 5
