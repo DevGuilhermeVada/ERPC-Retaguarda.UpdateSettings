@@ -4,7 +4,7 @@
     "ApplicationName": "ERPC - Retaguarda.exe"
   },
   "UpdateSystem": {
-      "Address": "https://www.dropbox.com/scl/fi/7sn5iaei9sl6wqku3ctan/ShopKeeperPortal.WinForms.zip?rlkey=o8u2ohsrwi3hv7cwkkjyckbqt&dl=1",
+      "Address": "https://www.dropbox.com/s/sixnbfdnrv9trql/ShopKeeperPortal.WinForms.zip?dl=1",
       "Description": "Initial Version",
       "CurrentVersion": 1,
       "ReleaseDate": "11-06-2024",
