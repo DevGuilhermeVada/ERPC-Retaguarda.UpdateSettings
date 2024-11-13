@@ -6,7 +6,7 @@
   "UpdateSystem": {
       "Address": "https://www.dropbox.com/scl/fi/0cgj6wgkecfvlsio9fm3i/ERPC-Retaguarda.zip?rlkey=kd0qifsqrmerz7e2z5clco8d1&dl=1",
       "Description": "Initial Version",
-      "CurrentVersion": 4,
+      "CurrentVersion": 5,
       "ReleaseDate": "11-06-2024",
       "DownloadDestinationPath": "Update\\",
       "ExtractDestinationPath": "",    
