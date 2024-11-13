@@ -14,7 +14,7 @@
       "DelayInSeconds": 5,
       "ScriptName": "script_v2.sql",
       "UpdateDatabase": false,
-      "ForceUpdate": false
+      "ForceUpdate": true
     },
   "UpdateMarketing": {
       "Address": "https://www.dropbox.com/scl/fi/a1anjbcu26m39bbogzv3w/Marketing_Info.zip?rlkey=wlz8pz7kyuoewrwh7pmeohlg4&dl=1",
