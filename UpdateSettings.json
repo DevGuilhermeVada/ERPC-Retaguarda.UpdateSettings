@@ -13,7 +13,7 @@
       "FileName": "UpdateSystem.zip",
       "DelayInSeconds": 5,
       "ScriptName": "script_v2.sql",
-      "UpdateDatabase": false,
+      "UpdateDatabase": true,
       "ForceUpdate": true
     },
   "UpdateMarketing": {
