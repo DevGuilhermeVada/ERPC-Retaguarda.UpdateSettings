@@ -19,8 +19,8 @@
   "UpdateMarketing": {
       "Address": "https://www.dropbox.com/scl/fi/a1anjbcu26m39bbogzv3w/Marketing_Info.zip?rlkey=wlz8pz7kyuoewrwh7pmeohlg4&dl=1",
       "Description": "Initial Marketing",
-      "CurrentVersion": 2,
-      "ReleaseDate": "11-20-2024",
+      "CurrentVersion": 3,
+      "ReleaseDate": "11-21-2024",
       "DownloadDestinationPath": "Update\\",
       "ExtractDestinationPath": "Marketing",
       "FileName": "UpdateMarketing.zip",
